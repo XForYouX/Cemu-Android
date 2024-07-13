@@ -1,0 +1,2 @@
+# Cemu-Android
+cemu.info
