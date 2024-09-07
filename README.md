@@ -18,7 +18,7 @@ Cemu is currently only available for 64-bit Windows, Linux & macOS devices.
  - [Official Matrix Server](https://matrix.to/#/#cemu:cemu.info)
  - [Setup Guide](https://cemu.cfw.guide)
  - [ROM WII U Format WUA](https://archive.org/download/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates)
- * Note For ROM WII U Android :
+ ## Note For ROM WII U Android :
  - You Need For Login ( Google Account )
 
 #### Other relevant repositories:
