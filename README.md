@@ -16,14 +16,13 @@ Cemu is currently only available for 64-bit Windows, Linux & macOS devices.
  - [Official Subreddit](https://reddit.com/r/Cemu)
  - [Official Discord](https://discord.gg/5psYsup)
  - [Official Matrix Server](https://matrix.to/#/#cemu:cemu.info)
- - [Official Cemu Android](https://github.com/SSimco/Cemu)
  - [Setup Guide](https://cemu.cfw.guide)
 
 #### Other relevant repositories:
  - [Cemu-Language](https://github.com/cemu-project/Cemu-Language)
  - [Cemu's Community Graphic Packs](https://github.com/cemu-project/cemu_graphic_packs)
 
-## Download Other
+## Download
 
 You can download the latest Cemu releases for Windows, Linux and Mac from the [GitHub Releases](https://github.com/cemu-project/Cemu/releases/). For Linux you can also find Cemu on [flathub](https://flathub.org/apps/info.cemu.Cemu).
 
