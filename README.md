@@ -1,3 +1,6 @@
+# ROM Game Format WUA ( Support Android )
+* [Format WUA](https://github.com/XForYouX/Cemu-Android/releases/tag/ROM.WIIU.FORMAT.WUA)
+
 # **Cemu - Wii U emulator**
 
 [![Build Process](https://github.com/cemu-project/Cemu/actions/workflows/build.yml/badge.svg)](https://github.com/cemu-project/Cemu/actions/workflows/build.yml)
