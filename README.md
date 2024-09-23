@@ -11,6 +11,12 @@
 ## Official Source Cemu Android From YGOmod
 * [Source](https://github.com/YGOmod/Cemu)
 
+## Changelog Latest Update From SSImco
+* [Changelog SSImco](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.10)
+
+## Changelog Latest Update From YGOmod
+* [Changelog YGOmod](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.11)
+
 
 
 # **Cemu - Wii U emulator**
