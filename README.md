@@ -13,11 +13,11 @@
 
 ## Changelog Latest Update From SSImco
 * [Changelog SSImco](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.10)
-* [Details Changelog](https://github.com/SSimco/Cemu/commits/android/)
+* [Full Changelog](https://github.com/SSimco/Cemu/commits/android/)
 
 ## Changelog Latest Update From YGOmod
 * [Changelog YGOmod](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.11)
-* [Details Changelog](https://github.com/YGOmod/Cemu/commits/android/)
+* [Full Changelog](https://github.com/YGOmod/Cemu/commits/android/)
 
 
 
