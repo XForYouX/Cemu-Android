@@ -22,7 +22,7 @@
 * [Full Changelog](https://github.com/SSimco/Cemu/commits/android/)
 
 ## Changelog Latest Update From YGOmod
-* [Changelog YGOmod](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.11)
+* [Changelog YGOmod](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.14)
 * [Full Changelog](https://github.com/YGOmod/Cemu/commits/android/)
 
 
