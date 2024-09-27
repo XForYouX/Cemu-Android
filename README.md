@@ -18,7 +18,7 @@
 * [Source](https://github.com/YGOmod/Cemu)
 
 ## Changelog Latest Update From SSImco
-* [Changelog SSImco](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.12)
+* [Changelog SSImco](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.13)
 * [Full Changelog](https://github.com/SSimco/Cemu/commits/android/)
 
 ## Changelog Latest Update From YGOmod
