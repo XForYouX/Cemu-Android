@@ -19,7 +19,7 @@
 
 ## Changelog Latest Update From SSImco
 * [Changelog SSImco](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.16)
-* [Full Changelog](https://github.com/SSimco/Cemu/commits/android/)
+* [Full Changelog](https://github.com/SSimco/Cemu/commits/android-port/)
 
 ## Changelog Latest Update From YGOmod
 * [Changelog YGOmod](https://github.com/XForYouX/Cemu-Android/releases/tag/BetaV.15)
